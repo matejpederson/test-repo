@@ -8,4 +8,4 @@ This will be useful
 
 These changes were made on local computer and sent up to github
 
-why is this not working
+Ok now this seems to work
